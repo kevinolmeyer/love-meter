@@ -1,11 +1,11 @@
-﻿# love-meter
+﻿# Love-meter
 
 love meter alamto ♥️
 
-## live demo
+## Live demo
 [here](https://www.alamto.com/tools/love-calculator) you can see the **live demo** of LOVE-METER v1.0
 
-## waht's doing
+## Waht's doing
 
 LOVE-METER is a web application that measures the percentage of love between you and your partner.
 
