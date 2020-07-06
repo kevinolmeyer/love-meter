@@ -7,8 +7,10 @@ love meter alamto ♥️
 
 ## waht's doing
 
-LOVE-METER is a web application that measures the percentage of love between you and your partner
-This app is based on your name and your lovers name
+LOVE-METER is a web application that measures the percentage of love between you and your partner.
+
+This app is based on your name and your lovers name.
+
 In this app measures also related to the week day.
 
 
